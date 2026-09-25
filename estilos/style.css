@@ -51,7 +51,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: var(--cor1) url(../imagens/pexels-ali-soheil-2154370577-34609629.jpg) no-repeat;
+    background: var(--cor1) url(../imagens/pexels-ali-soheil-2154370577-34609629\ \(1\).jpg) no-repeat;
     background-size: cover;
     background-position: left bottom;
     height: 200px;
